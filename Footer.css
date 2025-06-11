@@ -1,0 +1,22 @@
+.footer {
+  background-color: #111827; /* Dark grayish black */
+  color: #f9fafb;
+ padding: 5px 16px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-top: 1px solid #1f2937;
+}
+
+.footer-text {
+  margin-bottom: 12px;
+  font-size: 14px;
+  color: #9ca3af;
+}
+
+.footer {
+  background-color: #0a0a0a;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px;
+  border-top: 1px solid #333;
+}
